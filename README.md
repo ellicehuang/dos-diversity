@@ -1,7 +1,7 @@
 # dos-diversity: Examining gender representation in American diplomacy 
 
 ## Objective
-This project utilizes a data extraction, cleaning, and analysis pipeline to to examine and visualize representation in the State Department directories in 1965, 1982, and 2022. I am most interested in the percentage of female officers overtime.
+This project utilizes a data extraction, cleaning, and analysis pipeline to to examine and visualize gender representation in the State Department directories in 1965, 1982, and 2022. I am most interested in the percentage of female officers overtime.
 
 While this project only examines the State Department at three points in time, it can easily be scaled to analyze the State Department at a yearly granularity from 1965 to 2022.
 
